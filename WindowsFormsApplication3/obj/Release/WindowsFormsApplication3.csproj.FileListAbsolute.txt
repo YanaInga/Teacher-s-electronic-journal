@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Friday.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Monday.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Saturday.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Thursday.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Tuesday.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Wednasday.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form3.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb

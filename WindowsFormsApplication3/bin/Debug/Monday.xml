@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Timetable>
+    <Number>1</Number>
+    <Subject>Методы оптимизации</Subject>
+    <Room>Н-305</Room>
+  </Timetable>
+  <Timetable>
+    <Number>2</Number>
+    <Subject>Вычислительная математика</Subject>
+    <Room>Л-306</Room>
+  </Timetable>
+</NewDataSet>

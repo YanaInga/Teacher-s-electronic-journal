@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <GROUP>
+    <Number>1,2</Number>
+    <Subject>Выполнение к.р.</Subject>
+    <Annotation>Выбор темы</Annotation>
+    <Control>Отчет</Control>
+    <Mark>3</Mark>
+  </GROUP>
+  <GROUP>
+    <Number>5,6</Number>
+    <Subject>Выполнение курсовой работы</Subject>
+    <Annotation>Разработка UML-диаграмм  активности.</Annotation>
+    <Control>Отчет</Control>
+    <Mark>7</Mark>
+  </GROUP>
+</NewDataSet>

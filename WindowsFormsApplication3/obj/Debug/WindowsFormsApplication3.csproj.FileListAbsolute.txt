@@ -1,0 +1,23 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Friday.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Monday.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Saturday.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Thursday.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Tuesday.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Wednesday.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Plans.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Groups.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Электронный журнал педагога.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Электронный журнал педагога.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Электронный журнал педагога.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AboutBox1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Электронный журнал педагога.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Электронный журнал педагога.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\C#\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.parol.resources

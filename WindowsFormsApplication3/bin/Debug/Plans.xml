@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Plans>
+    <GROUP>БПИ19-01</GROUP>
+    <PATH>БПИ19-01.xml</PATH>
+  </Plans>
+  <Plans>
+    <GROUP>БИС19-01</GROUP>
+    <PATH>БИС19-01.xml</PATH>
+  </Plans>
+</NewDataSet>

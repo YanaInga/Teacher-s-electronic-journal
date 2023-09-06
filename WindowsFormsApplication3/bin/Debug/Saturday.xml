@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Timetable>
+    <Number>2</Number>
+    <Subject>моделирование</Subject>
+    <Room>318</Room>
+  </Timetable>
+  <Timetable />
+  <Timetable />
+  <Timetable />
+</NewDataSet>

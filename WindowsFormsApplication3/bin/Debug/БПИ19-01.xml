@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <GROUP>
+    <Number>2</Number>
+    <Subject>Выполнение курсовой работы</Subject>
+    <Annotation>Выбор темы курсовой работы, под-бор литературы по теме, анализ предметной области. </Annotation>
+    <Control>Отчет</Control>
+    <Mark>3</Mark>
+  </GROUP>
+  <GROUP>
+    <Number>3,4</Number>
+    <Subject>Выполнение курсовой работы</Subject>
+    <Annotation>Разработка UML-диаграммы вариантов использования.</Annotation>
+    <Control>Отчет</Control>
+    <Mark>6</Mark>
+  </GROUP>
+  <GROUP>
+    <Number>5,6</Number>
+    <Subject>Выполнение курсовой работы</Subject>
+    <Annotation>Разработка кода программы</Annotation>
+    <Control>Отчет, деменстрация программы</Control>
+    <Mark>25</Mark>
+  </GROUP>
+</NewDataSet>
